@@ -22,9 +22,9 @@ A todo application built with Go, featuring user registration and authentication
 ## Getting Started
 
 1. Clone the repository
-2. Install dependencies:
+2. Install dependencies
 3. Set up your database configuration
-4. Run the application:
+4. Run the application
 
 ## API Endpoints
 
